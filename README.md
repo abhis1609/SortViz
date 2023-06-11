@@ -35,7 +35,7 @@ Feel free to contribute to this project by adding more sorting algorithms or imp
 
 ## Demo
 
-[Click here](https://your-demo-link.com) to see a live demo of the Sorting Visualizer in action.
+[Click here]({https://abhis1609.github.io/SortViz/) to see a live demo of the Sorting Visualizer in action.
 
 ## License
 
